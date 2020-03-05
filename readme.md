@@ -1492,7 +1492,7 @@ In pom.xml, you need to add the following dependencies:
 1. spring-boot-starter-data-jpa 
 2. db related dependencies: oracle, mysql....
 
-
+https://drive.google.com/drive/folders/1vobboLFITQDSsnzvtpowzWjxHh-nVNNn?usp=sharing
 
 
 
